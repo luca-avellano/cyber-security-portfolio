@@ -1,6 +1,7 @@
 **Brute force attack detection - TryHackMe lab**
 
 OBJECTIVE
+
 To identify and analyse a brute force login attack using log data
 
 TOOLS
